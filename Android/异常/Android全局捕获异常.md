@@ -1,3 +1,4 @@
+# Android全局捕获异常
 ## 开始实现
 ### 1、实现Thread.UncaughtExceptionHandler接口
 ```

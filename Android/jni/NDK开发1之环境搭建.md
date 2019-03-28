@@ -1,3 +1,4 @@
+# NDK开发1之环境搭建.md
 ### 1、下载插件
 > 在```SDK Manager```中找到```Android SDK```选中```LLDB```、```CMake```、```NDK```后点击OK按钮。
 
